@@ -1,4 +1,4 @@
-<h1 align="center"> 🍅 오뚜기 데이터를 활용한 심리검사 기반 음식 추천 서비스 </h1>
+<h1 align="center"> 🍅 오뚜기 데이터를 활용한 <br> 심리검사 기반 오뚜기 식품 추천 서비스 </h1>
 <h4 align="center"> 2023 숙명여대 BIGDATA/AI 해커톤 인기상 수상 🏅 </h4>
 
 ## Introduction
